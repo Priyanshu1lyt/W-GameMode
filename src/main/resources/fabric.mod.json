@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "easygamemode",
+  "version": "${version}",
+  "name": "Easy Gamemode",
+  "description": "Client-side GUI to change the gamemode of any player, or everyone, with one click. No server install needed.",
+  "authors": ["NotHeartYT"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.notheartyt.easygamemode.EasyGamemodeClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
