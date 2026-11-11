@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "Easy Gamemode",
   "description": "Client-side GUI to change the gamemode of any player, or everyone, with one click. No server install needed.",
-  "authors": ["NotHeartYT"],
+  "authors": ["NotHeartYT,Nebrion_Verse,Praveen_god_67"],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
